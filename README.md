@@ -6,4 +6,6 @@ PCA and LDA classification.
 
 Naive Bayes and kNN classification.
 
+SVM classification.
+
 
